@@ -12,7 +12,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
+        <h1 className="text-3xl font-bold underline">
           Hello gobang!
         </h1>
       </main>
